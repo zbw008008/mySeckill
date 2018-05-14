@@ -11,7 +11,8 @@ import java.util.List;
  * @author : ChenCong
  * @date : Created in 11:08 2018/1/8
  */
-public interface SeckillDao {
+public interface SeckillDao
+{
 
     /**
      * 减库存

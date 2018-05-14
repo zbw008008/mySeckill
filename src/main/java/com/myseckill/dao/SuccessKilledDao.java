@@ -8,7 +8,8 @@ import org.apache.ibatis.annotations.Param;
  * @author : ChenCong
  * @date : Created in 11:10 2018/1/8
  */
-public interface SuccessKilledDao {
+public interface SuccessKilledDao
+{
 
     /**
      * 秒杀成功，插入购买明细，可过滤重复
